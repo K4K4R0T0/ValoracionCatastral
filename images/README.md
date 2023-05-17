@@ -1,1 +1,1 @@
-#◘ **Imagenes para detallar el modelo**
+# **Imagenes para detallar el modelo**
